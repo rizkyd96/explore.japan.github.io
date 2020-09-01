@@ -6,13 +6,13 @@
 @media screen and (min-width: 1685px) {
     p,
     nav {
-        font-size: 2em;
+        font-size: 1.3em;
     }
     nav {
-        height: 200px;
+        height: 120px;
     }
     nav img {
-        width: 200px;
+        width: 100px;
     }
     .banner h1 {
         font-size: 20.5em;
